@@ -1,0 +1,15 @@
+/Users/mihailchertov/Desktop/C#_Lections/Ex.03_Sum/bin/Debug/net6.0/Ex.03_Sum
+/Users/mihailchertov/Desktop/C#_Lections/Ex.03_Sum/bin/Debug/net6.0/Ex.03_Sum.deps.json
+/Users/mihailchertov/Desktop/C#_Lections/Ex.03_Sum/bin/Debug/net6.0/Ex.03_Sum.runtimeconfig.json
+/Users/mihailchertov/Desktop/C#_Lections/Ex.03_Sum/bin/Debug/net6.0/Ex.03_Sum.dll
+/Users/mihailchertov/Desktop/C#_Lections/Ex.03_Sum/bin/Debug/net6.0/Ex.03_Sum.pdb
+/Users/mihailchertov/Desktop/C#_Lections/Ex.03_Sum/obj/Debug/net6.0/Ex.03_Sum.csproj.AssemblyReference.cache
+/Users/mihailchertov/Desktop/C#_Lections/Ex.03_Sum/obj/Debug/net6.0/Ex.03_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihailchertov/Desktop/C#_Lections/Ex.03_Sum/obj/Debug/net6.0/Ex.03_Sum.AssemblyInfoInputs.cache
+/Users/mihailchertov/Desktop/C#_Lections/Ex.03_Sum/obj/Debug/net6.0/Ex.03_Sum.AssemblyInfo.cs
+/Users/mihailchertov/Desktop/C#_Lections/Ex.03_Sum/obj/Debug/net6.0/Ex.03_Sum.csproj.CoreCompileInputs.cache
+/Users/mihailchertov/Desktop/C#_Lections/Ex.03_Sum/obj/Debug/net6.0/Ex.03_Sum.dll
+/Users/mihailchertov/Desktop/C#_Lections/Ex.03_Sum/obj/Debug/net6.0/refint/Ex.03_Sum.dll
+/Users/mihailchertov/Desktop/C#_Lections/Ex.03_Sum/obj/Debug/net6.0/Ex.03_Sum.pdb
+/Users/mihailchertov/Desktop/C#_Lections/Ex.03_Sum/obj/Debug/net6.0/Ex.03_Sum.genruntimeconfig.cache
+/Users/mihailchertov/Desktop/C#_Lections/Ex.03_Sum/obj/Debug/net6.0/ref/Ex.03_Sum.dll
