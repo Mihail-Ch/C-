@@ -1,0 +1,15 @@
+/Users/mihailchertov/Desktop/C#_Lections/Ex.01_Hello World!/bin/Debug/net6.0/Ex.01_Hello World!
+/Users/mihailchertov/Desktop/C#_Lections/Ex.01_Hello World!/bin/Debug/net6.0/Ex.01_Hello World!.deps.json
+/Users/mihailchertov/Desktop/C#_Lections/Ex.01_Hello World!/bin/Debug/net6.0/Ex.01_Hello World!.runtimeconfig.json
+/Users/mihailchertov/Desktop/C#_Lections/Ex.01_Hello World!/bin/Debug/net6.0/Ex.01_Hello World!.dll
+/Users/mihailchertov/Desktop/C#_Lections/Ex.01_Hello World!/bin/Debug/net6.0/Ex.01_Hello World!.pdb
+/Users/mihailchertov/Desktop/C#_Lections/Ex.01_Hello World!/obj/Debug/net6.0/Ex.01_Hello World!.csproj.AssemblyReference.cache
+/Users/mihailchertov/Desktop/C#_Lections/Ex.01_Hello World!/obj/Debug/net6.0/Ex.01_Hello World!.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihailchertov/Desktop/C#_Lections/Ex.01_Hello World!/obj/Debug/net6.0/Ex.01_Hello World!.AssemblyInfoInputs.cache
+/Users/mihailchertov/Desktop/C#_Lections/Ex.01_Hello World!/obj/Debug/net6.0/Ex.01_Hello World!.AssemblyInfo.cs
+/Users/mihailchertov/Desktop/C#_Lections/Ex.01_Hello World!/obj/Debug/net6.0/Ex.01_Hello World!.csproj.CoreCompileInputs.cache
+/Users/mihailchertov/Desktop/C#_Lections/Ex.01_Hello World!/obj/Debug/net6.0/Ex.01_Hello World!.dll
+/Users/mihailchertov/Desktop/C#_Lections/Ex.01_Hello World!/obj/Debug/net6.0/refint/Ex.01_Hello World!.dll
+/Users/mihailchertov/Desktop/C#_Lections/Ex.01_Hello World!/obj/Debug/net6.0/Ex.01_Hello World!.pdb
+/Users/mihailchertov/Desktop/C#_Lections/Ex.01_Hello World!/obj/Debug/net6.0/Ex.01_Hello World!.genruntimeconfig.cache
+/Users/mihailchertov/Desktop/C#_Lections/Ex.01_Hello World!/obj/Debug/net6.0/ref/Ex.01_Hello World!.dll
